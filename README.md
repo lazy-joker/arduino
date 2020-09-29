@@ -10,14 +10,8 @@
 
 ### sketch_led
 
-* フルカラーLEDを虹色に光らせます。
+→ [sketch_led](https://github.com/lazy-joker/arduino/blob/master/sketch_led/readme.md)
 
-*動作要件、起動方法*
-
-* 以下の回路図のように、Arduino基板とフルカラーLED、抵抗器を接続します。
-* Arduino IDEでコンパイルしてArduino本体に書き込みます。
-
-![回路図](https://github.com/lazy-joker/arduino/blob/master/sketch_led/schematic.png?raw=true)
 
 ## 作者
 
